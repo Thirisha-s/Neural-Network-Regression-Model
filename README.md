@@ -110,11 +110,12 @@ Include screenshot of the dataset
 ![image](https://github.com/user-attachments/assets/0b9a5801-f31f-4534-ab57-539ed463b986)
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/9cfc936f-3cc4-4cd5-85d9-b07127243af6)
+![image](https://github.com/user-attachments/assets/66abe89a-afcf-4ce7-a768-a6b3dfb406d9)
 
 
 ### Training Loss Vs Iteration Plot
-![image](https://github.com/user-attachments/assets/18f37392-1ce6-45ed-81e1-5bef2c211822)
+![image](https://github.com/user-attachments/assets/ac7869ca-ef98-423a-8c2c-91840816362b)
+
 
 ## RESULT
 The neural network regression model was successfully trained and evaluated. The model demonstrated strong predictive performance on unseen data, with a low error rate.
