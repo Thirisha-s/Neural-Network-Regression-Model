@@ -64,9 +64,9 @@ class NeuralNet(nn.Module):
   def __init__(self):
         super().__init__()
         self.history = {'loss': []}
-        self.linear1 = nn.Linear(1, 12)
-        self.linear2 = nn.Linear(12, 10)
-        self.linear3 = nn.Linear(10, 1)
+        self.linear1 = nn.Linear(1, 7)
+        self.linear2 = nn.Linear(7, 7)
+        self.linear3 = nn.Linear(7, 1)
         self.relu = nn.ReLU()
 
   def forward(self,x):
